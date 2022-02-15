@@ -60,7 +60,8 @@ Implemente el circuito que se presenta en la figura 7.1
 
 **Circuito Armado**
 
-![image](https://user-images.githubusercontent.com/93835587/153972789-50137b73-37b8-4eb4-9a0f-07edacdece57.png)
+![image](https://user-images.githubusercontent.com/93835587/153972885-082bbd0a-deb9-477e-80de-2958bbf748a6.png)
+
 
 **Desarrollo**
 
