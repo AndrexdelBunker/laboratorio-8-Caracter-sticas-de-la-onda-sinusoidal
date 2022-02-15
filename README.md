@@ -89,6 +89,8 @@ Responda las siguientes preguntas:
 
 8.7.1¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+Tiene aproximadamente 2,3 divisiones por cuadro
+
 8.7.2¿En qué valor está posicionada la perilla VOLTS/DIV?
 
 8.7.3¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
