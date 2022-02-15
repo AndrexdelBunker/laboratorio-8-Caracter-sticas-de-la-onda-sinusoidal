@@ -60,27 +60,19 @@ Implemente el circuito que se presenta en la figura 7.1
 
 **Circuito Armado**
 
-![image](https://user-images.githubusercontent.com/93835587/153969605-5e3c9c28-3271-4647-825a-17f67054ab1b.png)
+![image](https://user-images.githubusercontent.com/93835587/153972789-50137b73-37b8-4eb4-9a0f-07edacdece57.png)
 
 **Desarrollo**
 
 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
 
-![image](https://user-images.githubusercontent.com/93835587/153970028-a1de1cea-7fea-4c25-8c10-c6b3b2ed67de.png)
-
-
-![image](https://user-images.githubusercontent.com/93835587/153969986-109d1145-2592-472f-ba6b-3344b8ea3365.png)
-
-
 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/93835587/153970309-6068ef9d-0b25-46ed-a4fb-ec32334ca1f6.png)
+![image](https://user-images.githubusercontent.com/93835587/153972596-aabfd1b4-e66b-4c3c-8590-aa62ee44ceda.png)
 
-![image](https://user-images.githubusercontent.com/93835587/153970672-87467a70-65d1-451a-8c9d-3cdf1e76fa1c.png)
-
-
+![image](https://user-images.githubusercontent.com/93835587/153972683-b3fcc8be-24de-409c-ba67-9269de154b57.png)
 
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
