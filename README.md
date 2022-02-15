@@ -3,7 +3,7 @@
 
 ![Logo_ESPE](https://user-images.githubusercontent.com/93800511/140828546-04ee2765-180c-4e68-84cf-8bca73c21c5f.png)
 
-**PRÁCTICA No.7 INDUCTOR Y CAPACITOR**
+**PRÁCTICA No.8 CARACTERÍSTICAS DE LA ONDA SENOIDAL**
 
 **INTEGRANTES**
 * Paola Morales 
