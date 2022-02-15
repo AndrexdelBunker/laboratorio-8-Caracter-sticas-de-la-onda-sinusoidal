@@ -63,6 +63,11 @@ Implemente el circuito que se presenta en la figura 7.1
 
 **8.7. ANÁLISIS DE RESULTADOS**
 
+
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
+
+**8.8. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
 Responda las siguientes preguntas:
 
 8.7.1¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
@@ -90,11 +95,6 @@ f: _____________(Hz)
 8.7.8 Compare el voltaje medido en el punto 8.7.5  y el obtenido en el punto 8.7.6
 
 ¿Coinciden? ¿Por qué?
-
-
--------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
-
-**8.8. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 
 
