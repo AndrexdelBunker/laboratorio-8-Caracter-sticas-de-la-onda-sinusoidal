@@ -90,8 +90,7 @@ el osciloscopio.
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
 
-**8.8. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
-
+**8.8. RESPUESTA A INTERROGANTES **
 Responda las siguientes preguntas:
 
 8.7.1¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
