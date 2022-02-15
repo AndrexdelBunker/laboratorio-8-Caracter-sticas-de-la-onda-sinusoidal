@@ -41,6 +41,7 @@ PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
 ![image](https://user-images.githubusercontent.com/93835587/153968712-d6cfb970-1a10-4a0c-9e6f-2d562f28fc9a.png)
 
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **8.5. MARCO TEÓRICO**
@@ -56,6 +57,21 @@ PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
 Implemente el circuito que se presenta en la figura 7.1
 
 ![image](https://user-images.githubusercontent.com/93835587/153968809-cd12f739-7757-49d2-be83-50558d315d25.png)
+
+**Circuito Armado**
+![image](https://user-images.githubusercontent.com/93835587/153969605-5e3c9c28-3271-4647-825a-17f67054ab1b.png)
+
+**Desarrollo**
+
+Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+una frecuencia de 2.5 Khz.
+
+![image](https://user-images.githubusercontent.com/93835587/153970028-a1de1cea-7fea-4c25-8c10-c6b3b2ed67de.png)
+
+
+![image](https://user-images.githubusercontent.com/93835587/153969986-109d1145-2592-472f-ba6b-3344b8ea3365.png)
+
+
 
 
 
