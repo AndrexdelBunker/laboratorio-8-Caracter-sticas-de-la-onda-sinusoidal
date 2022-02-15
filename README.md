@@ -6,8 +6,8 @@
 **PRÁCTICA No.8 CARACTERÍSTICAS DE LA ONDA SENOIDAL**
 
 **INTEGRANTES**
-* Paola Morales 
 * Andrés Granda
+* Paola Morales 
  
 **CLASE**
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
