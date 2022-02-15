@@ -125,6 +125,9 @@ salida.
 
 f: 2500 (Hz)
 
+![image](https://user-images.githubusercontent.com/93835587/154074474-9dcb3720-7fec-449f-93dc-7e950e79abdd.png)
+
+
 ω: 15707,963 (rad/s)
 
 ![image](https://user-images.githubusercontent.com/93835587/154072607-e45ad6ff-4a3c-474c-8554-c5d289a838b8.png)
