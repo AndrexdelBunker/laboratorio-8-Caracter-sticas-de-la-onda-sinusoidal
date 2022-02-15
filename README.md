@@ -47,6 +47,7 @@ PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
 **8.5. MARCO TEÓRICO**
 
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93835587/153981753-f7a71ba8-4837-46a2-a4d1-bf0c1e18b566.jpeg)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
