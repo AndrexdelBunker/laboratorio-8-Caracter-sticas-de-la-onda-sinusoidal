@@ -127,6 +127,9 @@ f: 2500 (Hz)
 
 ω: 15707,963 (rad/s)
 
+![image](https://user-images.githubusercontent.com/93835587/154072607-e45ad6ff-4a3c-474c-8554-c5d289a838b8.png)
+
+
 8.7.7 Con el multímetro digital mida el voltaje de salida en RL:
 
 Corriente
