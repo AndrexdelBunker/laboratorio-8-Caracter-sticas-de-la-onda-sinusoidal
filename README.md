@@ -115,6 +115,15 @@ f: _____________(Hz)
 
 8.7.7 Con el multímetro digital mida el voltaje de salida en RL:
 
+Corriente
+
+![image](https://user-images.githubusercontent.com/93835587/153974030-40bcf4db-a850-4227-bb47-7ce6fcf4ed34.png)
+
+Voltaje
+
+![image](https://user-images.githubusercontent.com/93835587/153974548-741e9601-ab53-46d2-8de1-8ab42828b7bc.png)
+
+
 8.7.8 Compare el voltaje medido en el punto 8.7.5  y el obtenido en el punto 8.7.6
 
 ¿Coinciden? ¿Por qué?
