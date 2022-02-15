@@ -139,6 +139,7 @@ Voltaje
 
 ¿Coinciden? ¿Por qué?
 
+Podemos determinar que los valores de voltaje no coinciden ya que  cuando medimos el voltaje en osciloscopio este tiende a medir valores instantaneos en un tiempo determinado que este caso seria el valor pico maximo que este pude alcanzar y cuando medimos con un multimetro lo que se mide en este caso es el voltaje RMS que es el voltaje efica, el valor que obtenga puede producira un evecto de disipación o calntamiento.
 
 
 
