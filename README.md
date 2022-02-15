@@ -6,7 +6,6 @@
 **PRÁCTICA No.7 INDUCTOR Y CAPACITOR**
 
 **INTEGRANTES**
-* Coello Ismael 
 * Paola Morales 
 * Andrés Granda
  
