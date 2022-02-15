@@ -116,6 +116,8 @@ del osciloscopio?
 
 Amplitud de voltaje: 6,83 (V)
 
+<img src="https://latex.codecogs.com/svg.image?\\Periodo=Valor~de~la~perilla~time/div&space;\cdot&space;&space;cuadritos~de~un~ciclo\\Periodo=0.4ms&space;" title="\\Periodo=Valor~de~la~perilla~time/div \cdot cuadritos~de~un~ciclo\\Periodo=0.4ms " />
+
 Periodo: 0.0004 (s)
 
 8.7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
