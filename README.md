@@ -71,10 +71,9 @@ una frecuencia de 2.5 Khz.
 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/93835587/153972596-aabfd1b4-e66b-4c3c-8590-aa62ee44ceda.png)
+![image](https://user-images.githubusercontent.com/93835587/153973357-7956a6d6-c374-4414-9ea7-3eac7345868c.png)
 
-![image](https://user-images.githubusercontent.com/93835587/153972683-b3fcc8be-24de-409c-ba67-9269de154b57.png)
-
+![image](https://user-images.githubusercontent.com/93835587/153973502-8106b0b5-b43f-4f8e-b6d0-1532f7c6dc58.png)
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
 
@@ -89,13 +88,18 @@ Responda las siguientes preguntas:
 
 8.7.1¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-Tiene aproximadamente 2,3 divisiones por cuadro
+
 
 8.7.2¿En qué valor está posicionada la perilla VOLTS/DIV?
 
+Se encuentra posicionada en 3
+
 8.7.3¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+
 8.7.4¿En qué valor está posicionada la perilla TIME/DIV? 
+
+Se encuentra posicionada en 0,1 m
 
 8.7.5¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
